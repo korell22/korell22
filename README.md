@@ -1,7 +1,6 @@
 ### Olá! Seja bem-vindo ao perfil👋
 
-- 🌱 Estudando HTML e CSS3.
-- 💬 Gosto de discutir sobre tecnologia
+- 🌱 Estudando Front End.
 - 📫 Entre em contato comigo no discord: korell#2915
 - 😄 Pronomes: ele/dele
 
@@ -21,7 +20,6 @@
   ##
  
 <div> 
- <a href="https://twitter.com/Korell222" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
   <a href = "realkorell@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/korell22/korell22/blob/output/github-contribution-grid-snake.svg)
