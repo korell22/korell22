@@ -1,4 +1,4 @@
-### Olá! Seja bem-vindo ao perfil👋
+### Olá! Seja bem-vindo ao meu perfil👋
 
 - 🌱 Estudando Front End.
 - 📫 Entre em contato comigo no discord: korell#2915
